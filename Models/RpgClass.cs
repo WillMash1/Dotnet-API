@@ -10,3 +10,6 @@ namespace dotnet_rpg.Models
         Cleric = 3
     }
 }
+
+
+
